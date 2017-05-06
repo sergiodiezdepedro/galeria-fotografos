@@ -1,0 +1,52 @@
+---
+
+imagen:
+
+  - 
+    pic: 'ansel_adams.jpg'
+    nombre: 'Ansel Adams'
+
+  - 
+    pic: 'elliott_erwitt.jpg'
+    nombre: 'Elliott Erwitt'
+
+  - 
+    pic: 'willy_maywald.jpg'
+    nombre: 'Willy Maywald'
+
+  - 
+    pic: 'bettina_rheims.jpg'
+    nombre: 'Bettina Rheims'
+
+  - 
+    pic: 'weegee.jpg'
+    nombre: 'Wegee'
+
+  - 
+    pic: 'cecil_beaton.jpg'
+    nombre: 'Cecil Beaton'
+
+  - 
+    pic: 'melvin_sokolsky.jpg'
+    nombre: 'Melvin Sokolsky'
+
+  - 
+    pic: 'cindy_sherman.jpg'
+    nombre: 'Cindy Sherman'
+
+  - 
+    pic: 'emmy_andriesse.jpg'
+    nombre: 'Emmy Andriesse'
+
+  - 
+    pic: 'mario_testino.jpg'
+    nombre: 'Mario Testino'
+
+  - 
+    pic: 'georges_dambier.jpg'
+    nombre: 'Georges Dambier'
+
+  - 
+    pic: 'gordon_parks.jpg'
+    nombre: 'Gordon Parks'
+...
